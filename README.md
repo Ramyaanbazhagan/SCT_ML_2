@@ -79,9 +79,5 @@ This helps businesses better understand customer behavior and target marketing s
 
 ---
 
-## 🚀 Next Steps
-- Use **PCA** to visualize higher dimensions
-- Implement **recommendation system** based on customer clusters
 
----
 
